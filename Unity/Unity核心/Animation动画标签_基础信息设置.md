@@ -1,0 +1,13 @@
+# Animation动画标签 基础信息设置
+
+1.
+
+![a09025cf3278ac2567f47879a12f108f.png](image/a09025cf3278ac2567f47879a12f108f.png)
+
+2.
+
+![67e355b3732d85e0643f2631c73190e9.png](image/67e355b3732d85e0643f2631c73190e9.png)
+
+3.
+
+![f5128cd3b1ef71135f5a73b44cd547e4.png](image/f5128cd3b1ef71135f5a73b44cd547e4.png)

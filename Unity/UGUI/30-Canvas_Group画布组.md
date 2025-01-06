@@ -1,0 +1,13 @@
+# 30.Canvas Group画布组
+
+![f74e76fd88bb289c622075775bc39d1c.png](image/f74e76fd88bb289c622075775bc39d1c.png)
+
+![f0118f086ccf6de32366bf018ae00fc1.png](image/f0118f086ccf6de32366bf018ae00fc1.png)
+
+![ab0625e5beb0728d0711f0eac46a7881.png](image/ab0625e5beb0728d0711f0eac46a7881.png)
+
+![d85f6885a9f271400d2605681f339908.png](image/d85f6885a9f271400d2605681f339908.png)
+
+的使用场景：是另一个Panel的子对象
+
+![8eb95227d40f7752f2a04d48bd79b086.png](image/8eb95227d40f7752f2a04d48bd79b086.png)

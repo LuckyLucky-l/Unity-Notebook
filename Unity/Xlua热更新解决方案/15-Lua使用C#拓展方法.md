@@ -1,0 +1,15 @@
+# 15.Lua使用C#拓展方法
+
+![e0cef5d2466afb3da077c3165614c5b8.png](image/e0cef5d2466afb3da077c3165614c5b8.png)
+
+![b7c15aceff7ef6ecc9c1d037e274b16b.png](image/b7c15aceff7ef6ecc9c1d037e274b16b.png)
+
+准备
+
+![57aba492da9942738e1a81b85f8b57ef.png](image/57aba492da9942738e1a81b85f8b57ef.png)
+
+![3b1e79106c73cf2a9ffe13c98db4b65d.png](image/3b1e79106c73cf2a9ffe13c98db4b65d.png)
+
+![8957d1d16d3667300a8ad705c7697737.png](image/8957d1d16d3667300a8ad705c7697737.png)
+
+![80925ed41f23145e8d610368150aae70.png](image/80925ed41f23145e8d610368150aae70.png)

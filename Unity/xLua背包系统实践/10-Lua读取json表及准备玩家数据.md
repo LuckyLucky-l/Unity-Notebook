@@ -1,0 +1,23 @@
+# 10.Lua读取json表及准备玩家数据
+
+读取道具的详细信息
+
+再读取玩家的道具信息，读取的时候要初始化
+
+就可以直接用了
+
+![c17f3ac6d1e7d89f6a48149959c80f53.png](image/c17f3ac6d1e7d89f6a48149959c80f53.png)
+
+![7dd231f40151e6753014ea48419a46bc.png](image/7dd231f40151e6753014ea48419a46bc.png)
+
+配置表读取到Lua中
+
+![ad3d16d6d3129cc3406d113a5480fd40.png](image/ad3d16d6d3129cc3406d113a5480fd40.png)
+
+![516e2adec9448be4f126008473b03623.png](image/516e2adec9448be4f126008473b03623.png)
+
+![c82e32c51c80b0f648eeb316506d6201.png](image/c82e32c51c80b0f648eeb316506d6201.png)
+
+![c52b8174d866b67293d09cc8850b069c.png](image/c52b8174d866b67293d09cc8850b069c.png)
+
+![84407ae3c22eb315109437b2a23b6d0e.png](image/84407ae3c22eb315109437b2a23b6d0e.png)

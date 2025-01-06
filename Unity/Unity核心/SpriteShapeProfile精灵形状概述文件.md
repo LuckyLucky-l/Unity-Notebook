@@ -1,0 +1,21 @@
+# SpriteShapeProfile精灵形状概述文件
+
+![1a5ef056697e8b7d499ea03f3a44b37a.png](image/1a5ef056697e8b7d499ea03f3a44b37a.png)
+
+![78b36858a0b4572dbebb86a22728cdf9.png](image/78b36858a0b4572dbebb86a22728cdf9.png)
+
+![c0173e8337f7194c60172855d67dd953.png](image/c0173e8337f7194c60172855d67dd953.png)
+
+示例场景和资源
+
+![b49871df49db892b92df023f7f476992.png](image/b49871df49db892b92df023f7f476992.png)
+
+![71983482b3d732a8bac789e10d86ae2b.png](image/71983482b3d732a8bac789e10d86ae2b.png)
+
+![7b253533dc80655c5e76e1823611ddf2.png](image/7b253533dc80655c5e76e1823611ddf2.png)
+
+开放地形和封闭地形
+
+![beac369e31a2fc2cdb875c91719765eb.png](image/beac369e31a2fc2cdb875c91719765eb.png)
+
+![6cdd7ee376b30e73c765f5b706fdbe66.png](image/6cdd7ee376b30e73c765f5b706fdbe66.png)

@@ -1,0 +1,21 @@
+# 20.ScrollView滚动视图
+
+![74771f76db142bf94570d75a4ff14cc7.png](image/74771f76db142bf94570d75a4ff14cc7.png)
+
+![ec2dc61e0938d375d51f3fc4b7ab0667.png](image/ec2dc61e0938d375d51f3fc4b7ab0667.png)
+
+![808ea0269fe1524810db908d4b76c0c7.png](image/808ea0269fe1524810db908d4b76c0c7.png)
+
+注意：
+
+如果需要删除横向或者竖向的滚动条，删完后，需要将关联组件致空
+
+![f190809f2d536e78630baf4b897df2b3.png](image/f190809f2d536e78630baf4b897df2b3.png)
+
+![a3142ae5e3823e38a28b874e8174dc79.png](image/a3142ae5e3823e38a28b874e8174dc79.png)
+
+![da7b97b843c892b39dd0c97fc2bc7fe5.png](image/da7b97b843c892b39dd0c97fc2bc7fe5.png)
+
+![61e9a48c32515694eaeb0c1667048b15.png](image/61e9a48c32515694eaeb0c1667048b15.png)
+
+![10a4b8226a0a5332c93273ed3ff17d08.png](image/10a4b8226a0a5332c93273ed3ff17d08.png)

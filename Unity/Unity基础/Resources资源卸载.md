@@ -1,0 +1,19 @@
+# Resources资源卸载
+
+![d393c32d3b91d181b5ba72919caf3047.png](image/d393c32d3b91d181b5ba72919caf3047.png)
+
+ ![947819b1f3f11e73da22d372678c8a50.png](image/947819b1f3f11e73da22d372678c8a50.png)
+
+![46b39b865297bb88ad3235735a86a60c.png](image/46b39b865297bb88ad3235735a86a60c.png)
+
+可以在Unity调试窗口查看内存变化ctrl+7
+
+![52ba6654878cbefd1c026939e510b27b.png](image/52ba6654878cbefd1c026939e510b27b.png)
+
+![7642adc411e022e93d8b12a5c1a0c02a.png](image/7642adc411e022e93d8b12a5c1a0c02a.png)
+
+![44b44bfb3f83da407a87a07ff7ea8999.png](image/44b44bfb3f83da407a87a07ff7ea8999.png)
+
+![89e634b43c281038e716bf9b7a4de3c3.png](image/89e634b43c281038e716bf9b7a4de3c3.png)
+
+![fd5cbfa052f2b0015eebcb1566882ccc.png](image/fd5cbfa052f2b0015eebcb1566882ccc.png)

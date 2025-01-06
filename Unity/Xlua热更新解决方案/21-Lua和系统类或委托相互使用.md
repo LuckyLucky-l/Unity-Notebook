@@ -1,0 +1,19 @@
+# 21.Lua和系统类或委托相互使用
+
+无法监听，需要在系统方法上添加CsharpCallLua特性，但是这是不允许的
+
+![2724e108a232ce2dbde4e568302744ee.png](image/2724e108a232ce2dbde4e568302744ee.png)
+
+![ba613fa1699d99e8c623e8df35f94395.png](image/ba613fa1699d99e8c623e8df35f94395.png)
+
+![0931af8dd0904b6b25ddabb400c61d18.png](image/0931af8dd0904b6b25ddabb400c61d18.png)
+
+![4f406a61b346068fc59df79d59d1d077.png](image/4f406a61b346068fc59df79d59d1d077.png)
+
+![254a711140fa4f363dfe3e9a6b9a0599.png](image/254a711140fa4f363dfe3e9a6b9a0599.png)
+
+![d6a0bad32471dcebd3f410034117dea5.png](image/d6a0bad32471dcebd3f410034117dea5.png)
+
+![b360ac9a2f7a2386b960219405c7049a.png](image/b360ac9a2f7a2386b960219405c7049a.png)
+
+![ce435f2b5b038b1de3b499034f447f42.png](image/ce435f2b5b038b1de3b499034f447f42.png)

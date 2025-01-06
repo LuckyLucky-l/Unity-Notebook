@@ -1,0 +1,21 @@
+# Model模型页签知识点
+
+![3929f6f78d34924b3fcaa148ad660f7c.png](image/3929f6f78d34924b3fcaa148ad660f7c.png)
+
+![Image.png](image/Image.png)
+
+![7475141f80fa95d45175e0a36051c370.png](image/7475141f80fa95d45175e0a36051c370.png)
+
+![f58436db457ea92bc76bd0ac30bd2a95.png](image/f58436db457ea92bc76bd0ac30bd2a95.png)
+
+---
+
+![d69a02ec46ab5825729714840c68ef35.png](image/d69a02ec46ab5825729714840c68ef35.png)
+
+![b2da29384644ed1320f263948fb7bc41.png](image/b2da29384644ed1320f263948fb7bc41.png)
+
+---
+
+![d8386f4f805530a0517d68da6e022a8b.png](image/d8386f4f805530a0517d68da6e022a8b.png)
+
+![dc764c48491bcf09e8717f58ba856b27.png](image/dc764c48491bcf09e8717f58ba856b27.png)

@@ -1,0 +1,27 @@
+# Inspector检查窗口，Console控制台窗口
+
+![fac1516361af10c06c4377031b8ef315.png](image/fac1516361af10c06c4377031b8ef315.png)
+
+![9e3e7b1032248cb4cea8a46b08892093.png](image/9e3e7b1032248cb4cea8a46b08892093.png)
+
+1. Inspector检查窗口
+
+![ce77db1c9138b0a088975a0cf4645930.png](image/ce77db1c9138b0a088975a0cf4645930.png)
+
+![fa05626acfb336fbfe7f42ef6c653f69.png](image/fa05626acfb336fbfe7f42ef6c653f69.png)
+
+相当与类，什么物体挂上这个类就有了相机的功能
+
+![9dbc0417d213723e0d2f32d870d8396e.png](image/9dbc0417d213723e0d2f32d870d8396e.png)
+
+2.
+
+![9c20bc23680a3d3ddad4d56aea6caf84.png](image/9c20bc23680a3d3ddad4d56aea6caf84.png)
+
+![35d233a3c96a012cf235cc5fea8d08e4.png](image/35d233a3c96a012cf235cc5fea8d08e4.png)
+
+![699d7b20c8b7c8eaff662e548344a5d4.png](image/699d7b20c8b7c8eaff662e548344a5d4.png)
+
+![976050d90230c91078278f9e1f503a43.png](image/976050d90230c91078278f9e1f503a43.png)
+
+![bf51463836e5b82e36ad8309a7701fd8.png](image/bf51463836e5b82e36ad8309a7701fd8.png)

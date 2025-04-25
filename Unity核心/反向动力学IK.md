@@ -43,3 +43,43 @@ CCD和FABRIK的区别就是FABRIK可以反向
 ![1dae803144d8c5b74c6674f06c523c99.png](image/1dae803144d8c5b74c6674f06c523c99.png)
 
 ![a944ccdb7b0f6ae9398a229f8b27c414.png](image/a944ccdb7b0f6ae9398a229f8b27c414.png)
+
+
+
+
+
+
+
+
+
+            if (Roles.wugon_f)
+            {
+                if (Roles.aliveGameObjects.Count == 2)
+                {
+                    float count = Roles.aliveGameObjects.Count;
+                    distance = (0.9f - count * 0.01f) * role_num;
+                }
+                else if (Roles.aliveGameObjects.Count > 3 && Roles.aliveGameObjects.Count < 5)
+                {
+                    float count = Roles.aliveGameObjects.Count;
+                    distance = (0.7f - count * 0.01f) * role_num;
+                }
+                else if (Roles.aliveGameObjects.Count == 3)
+                {
+                    float count = Roles.aliveGameObjects.Count;
+                    distance = (0.7f - count * 0.01f) * role_num;
+                }
+                else if (Roles.aliveGameObjects.Count >= 5)
+                {
+                    float count = Roles.aliveGameObjects.Count;
+                    distance = (0.8f - count * 0.01f) * role_num;
+                }
+                else
+                {
+                    distance = 1f * role_num;//设定位置
+                }
+            }
+            else
+            {
+
+            }
